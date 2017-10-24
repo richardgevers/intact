@@ -43,46 +43,50 @@ h6 {
 
 hr.trophy-light,
 hr.trophy-primary {
-    margin: 25px auto 30px;
-    padding: 0;
-    max-width: 250px;
-    border: 0;
-    border-top: solid 5px;
-    text-align: center;
-}
+  max-width: 250px;
+  margin: 25px auto 30px;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: solid 5px; }
 
 hr.trophy-light:after,
 hr.trophy-primary:after {
-    content: "\f091";
-    display: inline-block;
-    position: relative;
-    top: -.8em;
-    padding: 0 .25em;
-    font-family: FontAwesome;
-    font-size: 2em;
-}
+  font-family: FontAwesome;
+  font-size: 2em;
+  position: relative;
+  top: -.8em;
+  display: inline-block;
+  padding: 0 0.25em;
+  content: '\f005'; }
 
 hr.trophy-light {
-    border-color: #e8e9eb;
-}
+  border-color: #fff; }
 
 hr.trophy-light:after {
-    color: #e8e9eb;
-    background-color: #fff;
-}
+  color: #fff;
+  background-color: #18BC9C; }
 
 hr.trophy-primary {
-    border-color: #9a2c36;
-}
+  border-color: #2C3E50; }
 
 hr.trophy-primary:after {
-    color: #9a2c36;
-    background-color: #fff;
-}
+  color: #2C3E50;
+  background-color: #fff; }
+
 
 .img-centered {
     margin: 0 auto;
 }
+
+.img-responsive {
+    max-width: 100%;
+}
+
+.img-header {
+    max-width: 50%;
+}
+
 
 header {
     text-align: center;
@@ -98,6 +102,7 @@ header.container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    max-width: 50%;
 }
 
 header .intro-text .name {
@@ -148,9 +153,7 @@ header .intro-text .skills {
         padding: 10px 0;
     }
 
-    .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1em;
-    }
+
 }
 
 .navbar {
@@ -206,6 +209,24 @@ section.success a.active {
 }
 
 section.success a:hover {
+    outline: 0;
+    color: #cc959a;
+}
+
+section.alt {
+    color: #2e0d10;
+    background: #e8e9eb;
+}
+
+section.alt a,
+section.alt a:focus,
+section.alt a:active,
+section.alt a.active {
+    outline: 0;
+    color: #9a2c36;
+}
+
+section.alt a:hover {
     outline: 0;
     color: #cc959a;
 }
@@ -621,6 +642,16 @@ li{
     background-color: #e8e9eb;
 }
 
-.img-responsive {
-    max-width: 80%;
+.panel-default>.panel-heading {
+    color: #2c3e50;
+    background-color: #e8e9eb;
+    border-color: #e8e9eb;
+}
+.block {
+    background-color: #f8f8f8;
+    padding: 25px;
+    text-align: center;
+    display: block;
+    color: #333;
+    margin-bottom: 20px;
 }
