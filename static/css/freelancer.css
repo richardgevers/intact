@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    color: #363435
+    color: #2e0d10
 }
 
 p {
@@ -86,7 +86,7 @@ hr.trophy-primary:after {
 
 header {
     text-align: center;
-    color: #363435;
+    color: #2e0d10;
     background: #FFFFFF;
 }
 
@@ -193,17 +193,21 @@ section h2 {
 }
 
 section.success {
-    color: #363435;
+    color: #2e0d10;
     background: #fff;
 }
 
 section.success a,
-section.success a:hover,
 section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
     color: #9a2c36;
+}
+
+section.success a:hover {
+    outline: 0;
+    color: #cc959a;
 }
 
 @media(max-width:767px) {
@@ -381,7 +385,16 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
+    color: #2e0d10;
     background-color: #e8e9eb;
+}
+
+footer .footer-below a {
+    color: #ae565e
+}
+
+footer .footer-below a:hover{
+    color: #cc959a
 }
 
 .btn-social {
