@@ -620,3 +620,7 @@ li{
 .dropdown-menu>li>a:hover {
     background-color: #e8e9eb;
 }
+
+.img-responsive {
+    max-width: 80%;
+}
