@@ -162,6 +162,10 @@ header .intro-text .skills {
     font-weight: 700;
 }
 
+.navbar-brand {
+    text-transform: none;
+}
+
 .navbar a:focus {
     outline: 0;
 }
