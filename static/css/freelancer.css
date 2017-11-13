@@ -158,12 +158,16 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Open Sans',Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
 .navbar-brand {
     text-transform: none;
+}
+
+.navbar-brand img {
+    max-height: 100%;
 }
 
 .navbar a:focus {
