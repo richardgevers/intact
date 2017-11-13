@@ -236,6 +236,9 @@ section.alt a:hover {
 }
 
 @media(max-width:767px) {
+    navbar-brand {
+        max-height: 90%;
+    }
     section {
         padding: 75px 0;
     }
