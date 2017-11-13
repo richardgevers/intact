@@ -166,10 +166,6 @@ header .intro-text .skills {
     text-transform: none;
 }
 
-.navbar-brand img {
-    max-height: 100%;
-}
-
 .navbar a:focus {
     outline: 0;
 }
