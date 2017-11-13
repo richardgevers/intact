@@ -36,7 +36,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,'Open Sans',sans-serif;
+    font-family: 'Open Sans',Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #b5121b;
 }
@@ -108,7 +108,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Open Sans',Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
 }
@@ -236,9 +236,6 @@ section.alt a:hover {
 }
 
 @media(max-width:767px) {
-    navbar-brand {
-        max-height: 90%;
-    }
     section {
         padding: 75px 0;
     }
