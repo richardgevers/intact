@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1650"
+   width="1480"
    height="204"
-   viewBox="0 0 1649.9999 203.99999"
+   viewBox="0 0 1479.9999 203.99999"
    id="svg4423"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cspnt_logo.svg">
+   sodipodi:docname="cspnt_logo.svg"
+   inkscape:export-filename="/Users/richardgevers/PycharmProjects/intact/static/img/cspnt_logo.png"
+   inkscape:export-xdpi="97.036362"
+   inkscape:export-ydpi="97.036362">
   <defs
      id="defs4425" />
   <sodipodi:namedview
@@ -27,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.34857383"
-     inkscape:cx="1324.8777"
+     inkscape:cx="649.2676"
      inkscape:cy="258.24669"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -46,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,7 +74,7 @@
        width="560.04285" />
     <g
        id="g4232"
-       transform="matrix(0.72857134,0,0,0.72857134,608.14279,327.49997)">
+       transform="matrix(0.60714278,0,0,0.60714278,611.78565,344.49997)">
       <g
          transform="translate(0,-772.36193)"
          id="layer1-4"
