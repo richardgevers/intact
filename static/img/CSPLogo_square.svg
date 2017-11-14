@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.29315832"
-     inkscape:cx="735.09766"
+     inkscape:cx="614.00268"
      inkscape:cy="322.89008"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1134"
-     inkscape:window-height="858"
+     inkscape:window-width="1443"
+     inkscape:window-height="849"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,18 +90,30 @@
            id="tspan4186">E</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:171.24998474px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            id="tspan4188">S</tspan></tspan></text>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot4145"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:124.99629211px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.90688677,0,0,0.90688677,626.31038,-253.57442)"><flowRegion
-         id="flowRegion4147"><rect
-           id="rect4149"
-           width="1293.1034"
-           height="806.89655"
-           x="75.862068"
-           y="555.25391"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:124.99629211px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4194">SUPPORT</flowPara><flowPara
-         id="flowPara4196">PROGRAMME</flowPara></flowRoot>  </g>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.35748291px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="695.10803"
+       y="361.19147"
+       id="text4148"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="695.10803"
+         y="361.19147"
+         id="tspan4150"><tspan
+           x="695.10803"
+           y="361.19147"
+           id="tspan4152">SUPPORT</tspan><tspan
+           dx="0"
+           x="1197.2462"
+           y="361.19147"
+           id="tspan4154" /></tspan><tspan
+         sodipodi:role="line"
+         x="695.10803"
+         y="502.88831"
+         id="tspan4156"><tspan
+           x="695.10803"
+           y="502.88831"
+           id="tspan4158">PROGRAMME</tspan></tspan></text>
+  </g>
 </svg>
