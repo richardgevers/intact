@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="IntactLogo_header.svg"
    inkscape:export-filename="/Users/richardgevers/PycharmProjects/intact/static/img/IntactLogo_header.png"
-   inkscape:export-xdpi="9"
-   inkscape:export-ydpi="9">
+   inkscape:export-xdpi="6.75"
+   inkscape:export-ydpi="6.75">
   <defs
      id="defs4425" />
   <sodipodi:namedview
@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.17428692"
-     inkscape:cx="2424.3399"
+     inkscape:cx="1073.1197"
      inkscape:cy="-90.027569"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
